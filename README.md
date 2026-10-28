@@ -24,3 +24,7 @@
 ## GitHub Pages
 Settings → Pages → Deploy from a branch → main / (root) → Save。
 公開先: https://celticmusic-nagoya.github.io/sero-kizoku/
+
+
+## v2 update
+キャッチコピーを改訂し、フォトスポット企画、小原和紙カードケースの特典案、五平餅紹介を追加。特典と現地設備は未実施の企画案です。
